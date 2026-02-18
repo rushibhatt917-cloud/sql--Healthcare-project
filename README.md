@@ -1,4 +1,6 @@
 # SQL Data Analysis Project
+## Dashboard Analysis
+![Fast Food Dashboard](Dashboard% Pic%.png)
 
 This project contains SQL queries used to analyze a healthcare database.
 
